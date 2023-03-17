@@ -1,6 +1,7 @@
 * {
     font-family: outfit;
     font-weight: 400;
+    font-size: 15px;
     text-align: center;
     color: var(--clr-gray-light);
 }
