@@ -1,0 +1,11 @@
+:root {
+    --clr-white: hsl(0, 0%, 100%),
+    --clr-gray-light: hsl(212, 45%, 89%),
+    --clr-blue-grayish: hsl(220, 15%, 55%),
+    --clr-blue-dark: hsl(218, 44%, 22%),
+
+    --min-width: 375px,
+    --max-width: 1440px,
+    
+}
+

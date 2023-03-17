@@ -1,0 +1,11 @@
+* {
+    font-family: outfit;
+    font-weight: 400;
+    text-align: center;
+    color: var(--clr-gray-light);
+}
+
+.heading {
+    font-weight: 700;
+    color: var(--clr-blue-dark);
+}
