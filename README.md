@@ -14,7 +14,7 @@ This is a simple page with QR code for visiting Frontend mentor website.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.jpg)
 
 ### Links
 
